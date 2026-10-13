@@ -1,0 +1,18 @@
+app_mamografia/
+├── .htaccess
+├── index.php
+├── preview/              ← inteira, já compilada
+├── admin/
+│   ├── index.php
+│   └── dist/             ← inteira, já compilada
+├── api/
+│   ├── .htaccess
+│   ├── index.php
+│   ├── config/           ← com local.php da hospedagem
+│   ├── controllers/
+│   ├── helpers/
+│   ├── middleware/
+│   ├── models/
+│   ├── services/
+│   └── storage/          ← pasta vazia, com permissão de escrita
+└── uploads/              ← inteira, incluindo .htaccess

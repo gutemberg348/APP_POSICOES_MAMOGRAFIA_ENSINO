@@ -1,0 +1,38 @@
+.manual-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 18px; }
+.manual-toolbar .search { width: 100%; max-width: 420px; flex-direction: row; }
+.manual-toolbar > span { color: var(--muted); white-space: nowrap; font-size: 13px; }
+.manual-list { display: grid; }
+.manual-entry { display: flex; gap: 16px; align-items: center; padding: 20px 0; border-top: 1px solid var(--line); }
+.manual-entry > svg { flex-shrink: 0; color: var(--pink); }
+.manual-entry > div { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.manual-entry strong { display: block; font-size: 15px; }
+.manual-entry span { display: block; color: var(--muted); font-size: 12px; margin-top: 6px; line-height: 1.6; }
+.manual-entry button { flex-shrink: 0; }
+.manual-empty { padding: 35px 0; color: var(--muted); text-align: center; }
+.manual-editor { max-width: 1000px; margin: 0 auto; }
+.manual-editor > .secondary { margin-bottom: 24px; }
+.manual-editor fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
+.manual-title-card, .manual-block { padding: 24px; background: white; border: 1px solid var(--line); border-radius: 18px; margin-bottom: 18px; }
+.manual-title-card p, .manual-help { color: var(--muted); font-size: 12px; line-height: 1.8; margin-top: 12px; }
+.manual-block-heading { display: flex; align-items: center; justify-content: space-between; gap: 14px; margin-bottom: 20px; }
+.manual-block-heading h2 { font-size: 15px; }
+.manual-block-heading > div { display: flex; gap: 6px; }
+.manual-block-fields { display: grid; grid-template-columns: 1fr 2fr; gap: 18px; margin-bottom: 18px; }
+.manual-editor label { display: grid; gap: 9px; }
+.manual-editor textarea { resize: vertical; line-height: 1.7; min-height: 125px; }
+.manual-save-bar { position: sticky; bottom: 0; display: flex; gap: 12px; align-items: center; background: #fff; border: 1px solid var(--line); padding: 16px; border-radius: 15px; margin-top: 24px; box-shadow: 0 -3px 18px #4b263a08; z-index: 2; }
+.manual-save-bar > span { flex: 1; color: var(--muted); font-size: 12px; }
+@media (max-width: 600px) {
+  .manual-page .library { padding: 16px; }
+  .manual-toolbar { flex-wrap: wrap; }
+  .manual-entry { gap: 10px; }
+  .manual-entry > svg { display: none; }
+  .manual-entry strong { font-size: 14px; }
+  .manual-entry button { padding: 10px; }
+  .manual-title-card, .manual-block { padding: 16px; }
+  .manual-block-fields { grid-template-columns: 1fr; }
+  .manual-block-heading { flex-wrap: wrap; }
+  .manual-save-bar { flex-wrap: wrap; padding: 12px; gap: 10px; }
+  .manual-save-bar > span { flex-basis: 100%; }
+  .manual-save-bar > .primary { flex: 1; }
+}

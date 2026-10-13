@@ -1,0 +1,25 @@
+-- Selecione o banco existente. Não altera contas, textos, mídias ou Premium manual.
+CREATE TABLE IF NOT EXISTS payments (
+ id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ user_id INT UNSIGNED NOT NULL,
+ reference CHAR(48) NOT NULL UNIQUE,
+ environment ENUM('sandbox','production') NOT NULL,
+ amount_cents INT UNSIGNED NOT NULL,
+ checkout_id VARCHAR(100) NULL UNIQUE,
+ provider_payment_id VARCHAR(100) NULL UNIQUE,
+ checkout_url VARCHAR(500) NULL,
+ status ENUM('CREATING','PENDING','PAID','CANCELED','EXPIRED','FAILED','REFUNDED','CHARGEBACK') NOT NULL DEFAULT 'CREATING',
+ expires_at DATETIME NOT NULL,
+ paid_at DATETIME NULL,
+ created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+ updated_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+ INDEX payments_access(user_id,status),
+ FOREIGN KEY(user_id) REFERENCES users(id) ON DELETE CASCADE
+) ENGINE=InnoDB;
+CREATE TABLE IF NOT EXISTS payment_events (
+ event_id VARCHAR(190) PRIMARY KEY,
+ payment_id BIGINT UNSIGNED NULL,
+ event_type VARCHAR(100) NOT NULL,
+ created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+ FOREIGN KEY(payment_id) REFERENCES payments(id) ON DELETE SET NULL
+) ENGINE=InnoDB;

@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Dominando a Mamografia",
+    "slug": "dominando-a-mamografia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/brand-mark.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "resize",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF",
+        "foregroundImage": "./assets/brand-mark.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.dominando.mamografia"
+    },
+    "web": {
+      "favicon": "./assets/brand-mark.png"
+    },
+    "plugins": [
+      "expo-video",
+      "expo-image",
+      "expo-secure-store",
+      "expo-router",
+      "expo-font"
+    ],
+    "scheme": "mamografia",
+    "experiments": {
+      "baseUrl": "/app_mamografia/preview"
+    }
+  }
+}

@@ -1,0 +1,751 @@
+--- PÁGINA 1 ---
+Manual de Posicionamentos
+As categorias da tela inicial serão botões clicáveis. Ao selecionar uma categoria, o 
+usuário será direcionado para a página correspondente.
+Dentro de cada categoria, os conteúdos serão organizados em tópicos, que também 
+serão apresentados como botões clicáveis. Ao selecionar um tópico, será exibida a 
+explicação completa daquele conteúdo.
+Tela inicial → Categoria → Tópico → Conteúdo/explicação.
+Barra inferior de navegação
+A barra inferior será fixa e navegável, contendo os seguintes ícones e funções:
+Voltar — ícone de seta: retorna à página anterior.
+Busca — ícone de lupa: permite pesquisar e encontrar rapidamente os posicionamentos e 
+demais conteúdos do aplicativo.
+Favoritos — ícone de estrela: permite ao usuário salvar os conteúdos de sua preferência 
+para acesso rápido posteriormente.
+Perfil — ícone de pessoa: permite gerenciar os dados pessoais e as informações de login 
+da conta.
+
+
+--- PÁGINA 2 ---
+Tela inicial com as categorias:
+Orientações (gratuito)
+Incidências de Rotina (gratuito)
+Incidências Adicionais (premium)
+Manobras Complementares (premium)
+Quando complementar (premium) 
+(Botão clicável para abrir o conteúdo - todo o texto Orientações na mesma página).
+Orientações 
+Preparo da paciente
+Peça à paciente que retire a vestimenta da cintura para cima e todos os adornos que possam 
+interferir no exame, como colares, brincos grandes e piercings na região do tórax.
+Confira o pedido médico
+Verifique a indicação do exame, identificando se é uma mamografia de rastreamento/rotina ou 
+diagnóstica.
+Preencha a anamnese
+Registre os dados da paciente, incluindo data da última menstruação, histórico familiar de 
+câncer de mama, cirurgias prévias e presença de cicatrizes.
+A história clínica da paciente é fundamental para a correlação com os achados mamográficos e 
+contribui para um diagnóstico mais assertivo.
+Investigue possíveis queixas
+Pergunte sobre nodulação, descarga papilar, dor e outras alterações relatadas pela paciente.
+
+
+--- PÁGINA 3 ---
+Em casos de retração ou inversão do mamilo, pergunte se essa característica sempre esteve 
+presente ou se ocorreu alguma mudança ao longo do tempo.
+Confira os exames anteriores
+Sempre que disponíveis, recolha os exames anteriores de mamografia da paciente e faça uma 
+breve análise visual nas imagens e no laudo antes de iniciar o exame.
+Essa análise permite ter uma prévia do padrão mamário e identificar possíveis achados que 
+possam exigir atenção ou complementação durante o exame atual.
+Força de compressão
+Importante: 70 Newtons equivalem a 7,138 Kgf (quilograma-força).
+Mamas no geral:
+A força de compressão inicial deve ser entre 70N e 80N e, a seguir, deve ser aumentada 
+gradativamente até que a mama esteja firme e imobilizada.
+Mamas com próteses:
+A força de compressão inicial deve ser de 50N e na manobra de Eklund, de 70N a 80N. 
+Devemos seguir as indicações em relação a força de compressão, pois essa é primordial para 
+uma imagem nítida e sem sobreposição de estruturas. Porém, o bom senso também deve estar 
+presente: caso sua paciente não tolere a compressão mínima recomendada, prossiga até onde 
+ela aguentar. 
+A mama por si só é uma região sensível, e muitas pacientes possuem alta sensibilidade. Avalie 
+cada caso, converse com sua paciente e explique a necessidade de se alcançar o mínimo para 
+garantir a realização adequada das imagens.
+Durante o posicionamento 
+Fique do lado oposto à mama examinada:
+Ao posicionar a mama direita, permaneça do lado esquerdo da paciente.
+Ao posicionar a mama esquerda, permaneça do lado direito.
+Dessa forma, a mama permanece de frente para você, facilitando o controle e a execução do 
+posicionamento.
+
+
+--- PÁGINA 4 ---
+(Botão clicável para abrir o conteúdo)
+Incidências de Rotina:
+(Botão clicável para abrir o conteúdo) Craniocaudal (CC) [gratuito]
+Categoria: Incidência de Rotina
+Finalidade
+Incidência de rotina que demonstra a maior parte do tecido mamário, fundamental para avaliar 
+quadrantes internos e comparar simetria bilateral.
+Ângulo do tubo/bucky
+0º (zero graus).
+Posição da paciente
+Paciente em pé (ou sentada), de frente para o mamógrafo, ombros relaxados e cabeça voltada 
+para o lado oposto à mama examinada.
+Etapas do posicionamento
+1.  Inicie pela mama direita.
+2.  Fique do lado esquerdo da paciente e passe gentilmente o braço direito pelas costas dela, 
+mantendo seu corpo próximo ao mamógrafo para dar estabilidade durante o 
+posicionamento.
+3.  Ajuste a altura do bucky na altura do sulco inframamário, formando um ângulo de 90° 
+entre a mama apoiada sobre a bandeja e o tórax.
+4.  Com a mão esquerda, sustente a mama pela base. Eleve o sulco inframamário à sua 
+altura máxima e tracione toda a mama para frente de maneira uniforme, incluindo os 
+quadrantes laterais e mediais na mesma proporção.
+5.  Mantenha o ombro da paciente gentilmente para baixo enquanto realiza a tração da mama 
+para frente.
+6.  Posicione o mamilo centralizado no bucky e bem perfilado.
+7.  Inicie a compressão gradativamente, deslizando a mão aos poucos e mantendo a mama 
+tracionada. Retire a mão somente quando a mama estiver adequadamente posicionada e 
+sob compressão.
+8.  Aplique compressão firme e tolerável: deve ser suficiente para manter a mama 
+
+
+--- PÁGINA 5 ---
+posicionada e reduzir sua espessura, mas sempre respeitando a tolerância da paciente. 
+Converse com ela durante o processo.
+9.  Faça os ajustes finais confirmando a ausência de dobras de pele.
+Critérios de qualidade
+Mamilo em perfil e centrado na imagem;
+Tecido fibroglandular demonstrado em toda a sua extensão;
+Gordura retromamária presente;
+Músculo peitoral visível em cerca de 30% dos casos;
+Ausência de dobras cutâneas e artefatos de movimento;
+Mamas simétricas, com quadrantes medial e lateral na mesma proporção.
+Erros comuns
+Excluir o quadrante lateral por tração insuficiente;
+Excluir o quadrante medial por inclinar demais o ombro da paciente, reproduzindo uma 
+XCC;
+Mamilo fora de perfil, simulando nódulo subareolar;
+Dobras de pele;
+Bucky baixo demais, perdendo o músculo peitoral maior.
+Dica extra:
+Peça à paciente que relaxe os ombros, mantenha o braço solto ao lado do corpo e, com a outra 
+mão, segure a mama oposta, afastando-a da bandeja.
+[8 Imagens ao final desse texto]
+(Botão clicável para abrir o conteúdo)
+Médio-Lateral Oblíqua (MLO) [gratuito]
+Categoria: Incidência de Rotina
+Finalidade
+Incidência de rotina que demonstra todo o tecido mamário em uma única imagem, incluindo o 
+músculo peitoral maior e a axila. Essencial para avaliar o quadrante superior externo.
+
+
+--- PÁGINA 6 ---
+Ângulo do tubo/bucky
+45° (quarenta e cinco graus).
+Posição da paciente
+Paciente em pé (ou sentada), de frente para o mamógrafo com os ombros relaxados. O braço é 
+elevado e a axila é encaixada na borda superior do bucky. Deixe o braço na altura do ombro, 
+repousando sobre o aparelho.
+Etapas do posicionamento
+1.  Inicie pela mama direita.
+2.  Apoie o esterno no corpo da paciente. Com a mão esquerda, segure a mama direita e, 
+com a outra mão, abrace a paciente, conduzindo-a firme, mas gentilmente, para dentro do 
+aparelho.
+3.  Oriente a paciente para não movimentar o braço e a manter o músculo relaxado, sem 
+contraí-lo.
+4.  Fixe a mama no bucky, sustente-a e tracione-a para cima e para a frente, incluindo a prega 
+axilar e a cauda de Spence. Eleve o sulco inframamário até sua altura máxima.
+5.  Inicie a compressão gradativamente, mantendo a tração. À medida que o compressor 
+desce, deslize a mão para cima e para a frente, alisando a pele. Retire a mão por cima, 
+em direção ao braço da paciente, evitando deslizar para baixo, para que a mama não fique 
+pendular no bucky.
+6.  Verifique se o mamilo está centralizado e bem perfilado.
+7.  Faça os ajustes finais, retirando as dobras de pele embaixo da axila e no sulco 
+inframamário. Certifique-se de que o queixo da paciente não projete sombra sobre a 
+imagem.
+Critérios de qualidade
+Músculo peitoral visível estendendo-se até o nível do mamilo;
+Mamilo em perfil;
+Sulco inframamário aberto e visualizado;
+Prega axilar e cauda de Spence incluídas;
+Ausência de dobras e de sombra do queixo ou do braço contralateral;
+Erros comuns
+Músculo peitoral curto ou ausente por tração insuficiente;
+Sulco inframamário fechado ou ausente;
+Mama caída na imagem por falta de sustentação durante a compressão;
+Dobra de pele axilar confundindo a interpretação.
+
+
+--- PÁGINA 7 ---
+Dica extra:
+A regra 'para cima e para fora' é a chave: sustente a mama em elevação até o compressor 
+segurá-la. Se a mama 'escapar' por baixo, o exame perde tecido inferior.
+[9 Imagens ao final desse texto]
+(categoria premium)
+(Botão clicável para abrir o conteúdo) Incidências adicionais:
+(Botão clicável para abrir o conteúdo)
+Perfil Médio-Lateral (ML)  [premium]
+Categoria: Incidência adicional
+Finalidade
+Incidência complementar lateral verdadeira, indicada para:
+Localizar lesões no eixo craniocaudal (triangulação);
+Esclarecer sobreposições;
+Avaliar níveis líquidos em cistos;
+Determinar localização de fio metálico em marcação pré-cirúrgica.
+Ângulo do tubo/bucky
+90° (noventa graus).
+Posição da paciente
+Paciente em pé ou sentada, de frente para o aparelho, com a face lateral da mama apoiada no 
+detector e o tubo de raios X incidindo da face medial para a lateral.
+Etapas do posicionamento
+1.  Fique no lado oposto à mama que será posicionada.
+2.  Apoie o braço do lado examinado na borda superior do mamógrafo e afaste o outro braço 
+para trás, evitando sua sobreposição na imagem.
+3.  Sustente a mama para cima e tracione-a para frente, perpendicularmente à parede 
+
+
+--- PÁGINA 8 ---
+torácica, incluindo a região retromamária.
+4.  Inicie a compressão gradativamente. À medida que o compressor desce, deslize a mão 
+aos poucos para cima, alisando a pele. Retire a mão somente quando a mama estiver 
+adequadamente posicionada e comprimida.
+5.  Verifique se o mamilo está bem perfilado.
+6.  Faça uma rápida inspeção visual e ajuste o os detalhes. Certifique-se de que não haja 
+dobras de pele nem sobreposição da mão que sustenta a mama contralateral.
+Critérios de qualidade
+Mamilo em perfil;
+Tecido mamário demonstrado da parede torácica até o mamilo;
+Ausência de superposição do braço ou da mama contralateral.
+Erros comuns
+Rotação da paciente, distorcendo a localização da lesão;
+Exclusão de tecido posterior junto à parede torácica.
+Dica extra:
+Na triangulação, lembre-se da regra: se a lesão sobe na ML em relação à MLO, ela é medial; 
+se desce, é lateral (Macaco sobe, Lontra desce: medial sobe, lateral desce).
+[2 Imagens ao final desse texto]
+(Botão clicável para abrir o conteúdo)
+Perfil Látero-Medial (LM)  [premium]
+Categoria: Incidência adicional
+Finalidade
+Complementar à ML, útil para aproximar lesões mediais do receptor de imagem, melhorando a 
+resolução e a localização de achados no quadrante interno.
+Ângulo do tubo/bucky
+90° (noventa graus).
+
+
+--- PÁGINA 9 ---
+Posição da paciente
+Paciente em pé ou sentada, de frente para o aparelho, com a face medial da mama apoiada no 
+detector e o feixe incidindo de lateral para medial.
+Etapas do posicionamento
+1.  Fique ao lado da mama que será posicionada.
+2.  O esterno da paciente é apoiado contra o bucky, e a bandeja irá comprimir a porção lateral 
+da mama.
+3.  Sustente a mama para cima e tracione-a para frente a partir da face lateral, garantindo a 
+inclusão do tecido medial e posterior.
+4.  Inicie a compressão gradativamente. À medida que a bandeja desce, deslize a mão aos 
+poucos para cima, alisando a pele. Retire a mão somente quando a mama estiver 
+adequadamente posicionada e comprimida.
+5.  Verifique se o mamilo está bem perfilado.
+6.  Faça uma rápida inspeção visual e ajuste os detalhes. Certifique-se de que não haja 
+dobras de pele e que todo o tecido medial esteja incluído na imagem.
+Critérios de qualidade
+Mamilo em perfil;
+Tecido medial demonstrado em toda a extensão;
+Boa separação das estruturas sem dobras.
+Erros comuns
+Perda de tecido medial posterior;
+Rotação inadequada do tronco da paciente.
+Dica extra:
+Use a LM quando uma lesão vista na CC está muito medial e profunda — aproximá-la do 
+detector melhora a nitidez e facilita a correlação com a ultrassonografia.
+[2 Imagens ao final desse texto]
+(Botão clicável para abrir o conteúdo)
+Craniocaudal Exagerada (XCC) [premium]
+
+
+--- PÁGINA 10 ---
+Categoria: Incidência adicional
+Também conhecida como Cléopatra
+Finalidade
+Variação da CC que inclui mais tecido do quadrante lateral e da cauda axilar, indicada quando 
+há suspeita de lesão lateral não totalmente demonstrada na CC padrão.
+Ângulo do tubo/bucky
+5º a 10º (cinco a dez graus).
+Posição da paciente
+Semelhante à CC, porém com o tronco da paciente levemente rotacionado para expor a porção 
+lateral da mama. O ombro deve estar bem relaxado e inclinado para baixo.
+Etapas do posicionamento
+1.  Fique no lado oposto à mama que será posicionada. 
+2.  Tracione a mama e o tecido axilar para frente, priorizando os quadrantes laterais.
+3.  Inicie a compressão gradativamente, deslizando a mão sobre a pele e alisando-a. 
+4.  Não se preocupe se não pegar parte do quadrante medial.
+5.  Verifique se o mamilo está bem perfilado.
+Critérios de qualidade
+Cauda axilar e quadrante lateral demonstrados;
+Mamilo preferencialmente em perfil;
+Compressão adequada do tecido lateral.
+Erros comuns
+Rotação insuficiente, sem ganho real sobre a CC padrão;
+Dobras axilares por compressão apressada;
+Dica extra:
+Combine com a MLO: se a lesão é visível na MLO mas some na CC, a XCC frequentemente a 
+revela.
+[4 Imagens ao final desse texto]
+
+
+--- PÁGINA 11 ---
+(Botão clicável para abrir o conteúdo)
+Cleavage (Vale - CV) [premium]
+Categoria: Incidência adicional
+Finalidade
+Indicada para demonstrar as porções mediais posteriores de ambas as mamas;
+Localizar lesões mediais profundas, junto ao esterno.
+Pode ser realizada com compressor SPOT ou 18x24.
+Ângulo do tubo/bucky
+0º (zero graus).
+Posição da paciente
+Paciente de frente para o aparelho, com ambas as mamas sobre o bucky, inclinada para frente.
+Etapas do posicionamento
+1.  Coloque ambas as mamas sobre o bucky, com o esterno centrado na borda do detector.
+2.  Peça à paciente que se incline para frente, permitindo que o tecido medial posterior 
+avance sobre o detector.
+3.  Comprima ambas as mamas simultaneamente, mantendo o campo centrado no vale 
+intermamário.
+Critérios de qualidade
+Porções mediais de ambas as mamas demonstradas.
+Erros comuns
+Tração insuficiente das mamas, perdendo a porção medial de interesse;
+Visualização inadequada do vale intermamário
+Dica extra:
+É a incidência de escolha quando a CC padrão mostra assimetria medial profunda que precisa 
+ser melhor caracterizada.
+
+
+--- PÁGINA 12 ---
+[3 Imagens ao final desse texto]
+(Botão clicável para abrir o conteúdo)
+Caudocranial (From Below - FB) [premium]
+Categoria: Incidência adicional
+Também conhecida como Craniocaudal Reversa
+Finalidade
+Incidência com feixe de baixo para cima, indicada para:
+Pacientes com pouca mobilidade ou cifose acentuada;
+Mamas muito pequenas;
+Demonstrar lesões localizadas na porção superior da mama, afastadas do detector na CC 
+convencional;
+Pacientes do sexo masculino.
+Ângulo do tubo/bucky
+180° (cento e oitenta graus).
+Posição da paciente
+Paciente em pé de frente para o aparelho, com o bucky posicionado acima da mama, apoiando 
+a face superior.
+Etapas do posicionamento
+1.  Fique no lado oposto à mama que será posicionada. Eleve o sulco inframamário e ajuste a 
+altura do bucky de modo que os quadrantes superiores da mama fiquem em contato com 
+o detector.
+2.  Sustente a mama e tracione-a para cima, incluindo o máximo possível de tecido superior.
+3.  Inicie a compressão de baixo para cima, mantendo a mama tracionada.
+4.  Verifique se o mamilo está centralizado e bem perfilado.
+Critérios de qualidade
+Tecido da porção superior da mama demonstrado;
+
+
+--- PÁGINA 13 ---
+Mamilo em perfil.
+Erros comuns
+Exclusão do tecido posterior superior;
+Compressão insuficiente por dificuldade de acesso do compressor;
+Abdômen sobrepondo a imagem da mama.
+Dica extra:
+A paciente pode se afastar levemente do aparelho e inclinar o tórax em direção ao detector. 
+Dessa forma, reduz-se a possibilidade de o abdômen ser incluído no campo de colimação.
+[3 Imagens ao final desse texto]
+(Botão clicável para abrir o conteúdo)
+Axilar (AX) [premium]
+Categoria: Incidência Adicional
+Finalidade
+Demonstra a região axilar e a cauda de Spence. Indicada para:
+Avaliação de linfonodos axilares;
+Massas na prega axilar e extensão de lesões do quadrante superior externo.
+Ângulo do tubo/bucky
+45º (quarenta e cinco graus).
+Posição da paciente
+Paciente em pé, levemente afastada do aparelho, com o braço do lado examinado elevado e a 
+axila posicionada sobre o bucky.
+Etapas do posicionamento
+1.  Tracione bem a axila e coloque-a sobre o o detector, de modo que o corpo da paciente 
+fique quase debruçado sobre o aparelho (semelhante ao posicionamento Cleópatra).
+
+
+--- PÁGINA 14 ---
+2.  Comprima o tecido axilar com cuidado, a região é sensível e a compressão será limitada 
+pela anatomia local.
+3.  Nessa incidência, os quadrantes mediais não serão demonstrados, pois o foco é 
+apresentar com ênfase o prolongamento axilar e seus linfonodos.
+Critérios de qualidade
+Fossa axilar e cauda de Spence demonstradas;
+Linfonodos axilares visualizados quando presentes;
+Ausência de superposição do braço sobre a área de interesse.
+Erros comuns
+Braço insuficientemente elevado, com superposição de estruturas;
+Exclusão da porção mais alta da axila;
+Compressão excessiva causando dor e movimento.
+Dica extra:
+Útil na avaliação de linfonodomegalias vistas na MLO: a incidência axilar dedicada mostra 
+melhor a morfologia dos linfonodos.
+[2 Imagens ao final desse texto]
+(Botão clicável para abrir o conteúdo)
+Látero-Medial Oblíqua (LMO) [premium]
+Categoria: Incidência adicional
+Também conhecida como Contact
+Finalidade
+Incidência oblíqua com feixe de lateral para medial. Pode ser útil em: 
+Pacientes com limitação de mobilidade;
+Pacientes com Pectus Escatavum e Pectus Carinatum;
+Mamas pequenas ou lesões mediais profundas não demonstradas na MLO;
+Pacientes com marcapasso cardíaco proeminente.
+Ângulo do tubo/bucky
+
+
+--- PÁGINA 15 ---
+45° (quarenta e cinco graus).
+Posição da paciente
+Paciente em pé ou sentada, com os ombros relaxados. O braço é estendido para segurar no 
+suporte de mão. O esterno é apoiado contra o bucky, e a bandeja irá comprimir a face lateral da 
+mama.
+Etapas do posicionamento
+1.  Fique ao lado da mama que será posicionada. Posicione a paciente de modo que o feixe 
+de raios X incida de lateral para medial;
+2.  Sustente a mama e tracione-a para cima e para frente a partir da face lateral, incluindo o 
+tecido medial posterior.
+3.  Inicie a compressão gradativamente, mantendo a tração. À medida que o compressor 
+desce, deslize a mão para cima, alisando a pele. Retire a mão somente quando a mama 
+estiver adequadamente posicionada e comprimida.
+4.  Certifique-se de que o sulco inframamário e o tecido medial estejam incluídos na imagem.
+5.  Verifique se o mamilo está bem perfilado.
+Critérios de qualidade
+Tecido medial e inferior demonstrados em extensão;
+Mamilo em perfil;
+Boa compressão sem dobras.
+Erros comuns
+Perda do tecido medial posterior por tração insuficiente;
+Superposição do braço ou do queixo da paciente.
+Dica extra:
+É uma alternativa valiosa quando a paciente não consegue assumir a posição da MLO (dor no 
+ombro, limitação ortopédica) pois mantém boa demonstração do tecido com menos esforço 
+postural.
+[2 Imagens ao final desse texto]
+(Botão clicável para abrir o conteúdo)
+
+
+--- PÁGINA 16 ---
+ Manobras Complementares 
+(Botão clicável para abrir o conteúdo)
+Manobra de Eklund (EKLUND) [premium]
+Categoria: Manobra complementar
+Importante
+Atenção ao realizar essa manobra em pacientes com contratura capsular e forte aderência da 
+prótese no tecido mamário. A mobilidade do implante, sua posição e características da cápsula 
+podem impedir a realização do deslocamento adequado. Em alguns casos, a manobra de 
+Eklund pode ser substituída pelo Perfil de 90º. De todo modo, consulte antes a recomendação 
+específica do seu serviço de radiologia.
+Finalidade
+Indicada para pacientes com próteses mamárias (implantes de silicone). Consiste em deslocar 
+o implante para trás, contra a parede torácica, enquanto o tecido mamário é tracionado para 
+frente, permitindo comprimir e visualizar o parênquima sem a superposição da prótese.
+Ângulo do tubo/bucky
+Em CC: 0º (zero graus).
+Em MLO: 45° (quarenta e cinco graus).
+Posição da paciente
+Paciente em pé, posicionada como para as incidências de rotina (CC e MLO). 
+Etapas do posicionamento
+1.  Palpe a mama e identifique a borda do implante. Explique à paciente que a manobra 
+desloca a prótese para trás e pode causar desconforto leve.
+2.  Com os dedos, empurre a prótese para trás e para cima, em direção à parede torácica, 
+enquanto traciona o tecido mamário anterior para frente, sobre o bucky.
+3.  Mantenha os dedos firmes sobre a borda da prótese, impedindo que ela avance para o 
+campo, enquanto o compressor desce.
+
+
+--- PÁGINA 17 ---
+4.  Aplique compressão apenas até o mínimo indicado (veja a recomendação na Categoria 
+“Orientações - Força de compressão”). Nunca force além do recomendado.
+5.  Repita a manobra nas incidências CC e MLO (e complementares, se necessário), sempre 
+com o implante deslocado.
+Critérios de qualidade
+Prótese deslocada para trás, fora do campo de compressão ou minimamente incluída;
+Tecido mamário anterior comprimido e bem demonstrado;
+Mamilo em perfil quando possível;
+Ausência de movimento e de dobras.
+Erros comuns
+Compressão excessiva sobre a prótese, com risco de ruptura capsular.
+Implante não deslocado e ainda muito presente na imagem;
+Tração insuficiente do tecido anterior, com imagem subexposta.
+Dica extra:
+Ao realizar a manobra de Eklund em CC, suba um pouco a altura do bucky. Dessa forma, o 
+implante deslocado para trás ficará abaixo do receptor de imagem, e não aparecerá na 
+imagem.
+[8 Imagens ao final desse texto] 
+(Botão clicável para abrir o conteúdo)
+Compressão Localizada (SPOT) [premium]
+Categoria: Manobra complementar 
+Finalidade
+Espalhar regiões com sobreposição de parênquima mamário;
+Regiões mais densas sugestivas de lesão;
+Avaliar contorno de nódulos.
+Ângulo do tubo/bucky
+De acordo com a incidência escolhida.
+
+
+--- PÁGINA 18 ---
+Posição da paciente
+Paciente em pé de frente para o aparelho, conforme a incidência em que a alteração foi 
+detectada (CC ou MLO).
+Etapas do posicionamento
+1.  Localize a região de interesse na imagem de rotina, use o mamilo como referência e meça 
+com os dedos acima ou abaixo do mamilo para saber a altura. Depois meça quantos 
+dedos para dentro do mamilo para saber a profundidade do local.
+2.  Com a paciente já posicionada para a incidência escolhida, meça novamente com os 
+dedos, agora na mama. 
+3.  Posicione a mama de modo que a área fique sob o compressor SPOT.
+4.  Aplique compressão firme apenas sobre a área de interesse.
+Critérios de qualidade
+Área de interesse centrada sob o compressor;
+Dispersão adequada das estruturas adjacentes;
+Margens da lesão avaliáveis.
+Erros comuns
+Centrar o compressor fora da área de interesse;
+Compressão insuficiente, mantendo a sobreposição.
+Dica extra:
+Caso necessário, faça uma marcação de caneta na pele da paciente para centralizar a região 
+encontrada. 
+[5 Imagens ao final desse texto]
+(Botão clicável para abrir o conteúdo)
+Magnificação (MAG) [premium]
+Categoria: Manobra complementar 
+Nessa projeção a mama é colocada em uma plataforma de aproximadamente 40cm, para 
+diminuir a DOF (distância objeto-filme) e aumentar a região a ser visualizada (ampliação).
+
+
+--- PÁGINA 19 ---
+Finalidade
+Ampliação geométrica de uma região de interesse, essencial para visualizar microcalcificações: 
+morfologia, distribuição e agrupamento.
+Ângulo do tubo/bucky
+De acordo com a incidência escolhida. Realizar preferencialmente em duas incidências: CC e 
+Perfil ML.
+Posição da paciente
+De frente para o aparelho, conforme a incidência escolhida.
+Etapas do posicionamento
+1.  Localize as microcalcificações nas imagens de rotina. 
+2.  Use o mamilo como referência e meça com os dedos acima ou abaixo do mamilo para 
+saber a altura. Depois meça quantos dedos para dentro do mamilo para saber a 
+profundidade do local.
+3.  Com a paciente já posicionada para a incidência escolhida, meça novamente com os 
+dedos, agora na mama. 
+4.  Posicione a região das microcalcificações centralizada no compressor de MAG e faça a 
+compressão.
+Critérios de qualidade
+Microcalcificações nítidas e bem delimitadas,
+Ausência de artefato por movimento (imagem borrada);
+Foco fino e técnica adequada de exposição para uma melhor resolução.
+Erros comuns
+Imagem borrada e microcalcificações sem definição por movimento da paciente;
+Compressão insuficiente, reduzindo a resolução.
+Dica extra:
+Oriente a paciente a prender a respiração durante a aquisição da imagem, mantendo-se imóvel 
+para evitar artefatos de movimento.
+[4 Imagens ao final desse texto]
+
+
+--- PÁGINA 20 ---
+(Botão clicável para abrir o conteúdo)
+Manobra Rotacional (RL) [premium]
+Categoria: Manobra complementar
+Também conhecida como Manobra de Rolada. Pode ser feita Rotação 
+medial ou Rotação lateral.
+Finalidade
+Tem a finalidade de substituir a Compressão Localizada e é indicada para:
+Dissociar estruturas sobrepostas;
+Confirmar a localização real de uma lesão suspeita.
+Ângulo do tubo/bucky
+De acordo com a incidência escolhida. Realizar preferencialmente em CC ou em ML.
+Posição da paciente
+Paciente em pé, de frente para o mamógrafo, ombros relaxados e cabeça voltada para o lado 
+oposto à mama examinada.
+Etapas do posicionamento
+Rotação Medial
+1.  Coloque uma mão por baixo da mama e a outra mão por cima.
+2.  Desloque suavemente a parte superior da mama para o lado medial e a parte inferior da 
+mama para o lado externo.
+3.  Apoie a mama sobre o detector e realize a compressão, retirando sua mão sem prejudicar 
+o rolamento do tecido mamário.
+4.  O mamilo deve estar perfilado e centralizado na imagem.
+Rotação Lateral
+1.  Coloque uma mão por baixo da mama e a outra mão por cima.
+2.  Desloque suavemente a parte superior da mama para o lado externo e a parte inferior 
+para o lado oposto.
+3.  Apoie a mama sobre o detector e realize a compressão, retirando sua mão sem prejudicar 
+o rolamento do tecido mamário.
+
+
+--- PÁGINA 21 ---
+4.  O mamilo deve estar perfilado e centralizado na imagem.
+Critérios de qualidade
+Deslocamento visível das estruturas entre as imagens;
+Lesão de interesse bem demonstrada;
+Compressão adequada mantida.
+Erros comuns
+Rolamento insuficiente, sem separação das estruturas;
+Perda do mamilo de perfil dificultando a correlação.
+Dica extra:
+Se a lesão se move com a parte superior da mama no rolamento, ela está na porção superior; 
+quando se move com a parte inferior, está na porção inferior da mama.
+[3 Imagens ao final desse texto]
+(Botão clicável para abrir o conteúdo)
+Manobra Tangencial (TAN) [premium]
+Categoria: Manobra complementar
+Finalidade
+Demonstrar lesões cutâneas projetadas na pele (cicatrizes cirúrgicas, verrugas, calcificações, 
+cistos sebáceos) e diferenciá-las de lesões mamárias.
+Para realizar essa manobra, você irá precisar de marcadores metálicos (radiopacos), como por 
+exemplo:
+Arame encapado;
+Miçangas;
+Grampo de grampeador;
+Bolinhas de metal.
+Ângulo do tubo/bucky
+De acordo com a incidência escolhida. 
+
+
+--- PÁGINA 22 ---
+Posição da paciente
+Posição variável, definida pela localização da alteração: a mama é posicionada de modo que o 
+feixe incida tangencialmente à pele sobre a área de interesse.
+Etapas do posicionamento
+1.  Com um pedaço de fita adesiva radiotransparente (exemplo fita microporosa), cole o 
+marcador metálico na região de alto relevo da pele da mama.
+2.  Posicione a mama de modo que o marcado fique na borda da pele, sem sobrepor o tecido 
+mamário. O feixe irá incidir tangente à superfície cutânea.
+3.  Pode exigir rotação da paciente ou angulação do tubo.
+4.  Realize a compressão sobre a área, mantendo a tangência do feixe em relação à pele. 
+Critérios de qualidade
+Feixe tangente à área de interesse;
+Pele da região demonstrada em perfil;
+Marcador cutâneo visível.
+Erros comuns
+Tangência imperfeita, sem demonstrar a pele em perfil;
+Esquecer o marcador radiopaco, dificultando a correlação.
+Dica extra:
+Antes de posicionar a paciente para as incidências de rotina, verifique a existência de alguma 
+alteração cutânea e realize a marcação. Pode ser realizada em conjunto com a Compressão 
+Localizada.
+[3 Imagens ao final desse texto] 
+(Botão clicável para abrir o conteúdo)
+Manobra Angular (ANG) [premium]
+Categoria: Manobra complementar
+Finalidade
+Incidência com angulação variável do tubo, indicada para:
+
+
+--- PÁGINA 23 ---
+Dissociar sobreposições vistas na MLO padrão de 45º;
+Após identificar uma área densa, sugestiva de “efeito de soma”.
+Ângulo do tubo/bucky
+Variável de acordo com a necessidade. Entre 30° a 70° (trinta à setenta graus).
+Posição da paciente
+Semelhante à MLO, paciente em pé de frente para o mamógrafo com os ombros relaxados. O 
+braço é elevado e a axila é encaixada na borda superior do bucky. 
+Etapas do posicionamento
+1.  A partir das imagens de rotina, defina a angulação que melhor separa a estrutura de 
+interesse das sobreposições adjacentes.
+2.  Ajuste o bucky para o ângulo escolhido e posicione a paciente como na MLO, adaptando a 
+postura à nova angulação.
+3.  Tracione a mama para cima e para fora e comprima firmemente, mantendo os mesmos 
+cuidados da MLO.
+Critérios de qualidade
+Estrutura de interesse separada das sobreposições;
+Qualidade de imagem equivalente à MLO.
+Erros comuns
+Não registrar o ângulo utilizado, impossibilitando diferenciação de uma MLO padrão;
+Angulação inadequada que mantém a sobreposição.
+Dica extra:
+É importante conhecer todos os posicionamentos, mas essa manobra está atualmente em 
+DESUSO. Na prática, parte-se diretamente da MLO para o perfil absoluto ML (90°), 
+promovendo a completa dissociação das estruturas e evitando exposições desnecessárias em 
+diferentes angulações.
+[2 Imagens ao final desse texto] 
+
+
+--- PÁGINA 24 ---
+(categoria premium)
+(Botão clicável para abrir o conteúdo)
+ Quando complementar?
+Importante: As informações apresentadas são sugestões de complementação baseadas nos 
+achados mamográficos descritos e no costume da prática clínica. A conduta pode variar 
+conforme o caso clínico e os protocolos adotados. Sempre siga o protocolo da sua 
+instituição e a solicitação médica, quando aplicável.
+Queixa de nódulo palpável (Botão clicável para abrir o conteúdo)
+Identifique alguma densidade ou alteração correspondente na imagem adquirida.
+Peça à paciente que indique o local exato onde sente a alteração.
+Complementação: realize compressão localizada (CL).
+Pode ser realizada em: CL em CC, MLO ou Perfil ML. 
+Nódulo sobreposto ou assimetria focal (Botão clicável para abrir o conteúdo)
+Complementação: realize compressão localizada (CL).
+Se visualizado em CC e MLO:
+CL em CC.
+CL em MLO.
+Se visualizado somente em CC:
+CL em CC.
+CL em perfil ML.
+Se visualizado somente em MLO:
+CL em MLO.
+CL em perfil ML.
+
+
+--- PÁGINA 25 ---
+Nódulo na região medial da mama (Botão clicável para abrir o conteúdo)
+Complementação: realize incidência de Cleavage (CV).
+Nódulo ou assimetria focal no prolongamento axilar (Botão clicável para abrir o 
+conteúdo)
+Complementação: realize compressão localizada e/ou incidência axilar.
+Pode ser realizada em:
+CL em XCC.
+CL em MLO direcionada ao prolongamento axilar.
+Incidência Axilar com compressor 18x24.
+Linfonodo aumentado ou palpável (Botão clicável para abrir o conteúdo)
+Complementação: realize Incidência Axilar.
+Múltiplos nódulos em apenas uma mama (Botão clicável para abrir o conteúdo)
+Complementação: realize Perfil ML.
+Múltiplos nódulos em ambas as mamas 
+Complementação: realize Perfil ML bilateral.
+Microcalcificações agrupadas suspeitas
+
+
+--- PÁGINA 26 ---
+Complementação: realize Magnificação localizada (MAG).
+Se visualizadas em CC e MLO:
+MAG em CC.
+MAG em perfil ML.
+Se visualizadas somente em CC:
+MAG em CC.
+MAG em perfil ML.
+Se visualizadas somente em MLO:
+MAG em Perfil ML.
+Calcificações difusas em toda a mama — unilateral (Botão clicável para abrir o 
+conteúdo)
+Complementação: realize Magnificação Panorâmica unilateral (compressor 18x24 próprio para 
+MAG).
+Calcificações difusas em toda a mama — bilateral
+Complementação: realize Magnificação Panorâmica bilateral (compressor 18x24 próprio para 
+MAG).
+Calcificações agrupadas sugestivas de localização na pele (Botão clicável para 
+abrir o conteúdo)
+Complementação: realize Manobra Tangencial no local.
+Pode ser realizada em: CC, MLO ou Perfil ML.
+
+
+--- PÁGINA 27 ---
+Queixa de descarga papilar espontânea (Botão clicável para abrir o conteúdo)
+Objetivo: demonstrar eventual dilatação dos ductos.
+Complementação: realize Compressão Localizada (CL).
+Pode ser realizada em: CL em região retroareolar (RRA) ou região central (RC) da mama.
+Se possível, fixar essa Nota de rodapé na página dos conteúdos: 
+Dominando a Mamografia é um material de apoio educacional e não substitui o aperfeiçoamento 
+profissional. Siga sempre os protocolos da sua instituição, as recomendações do Colégio Brasileiro de 
+Radiologia (CBR) e as diretrizes do Programa Nacional de Qualidade em Mamografia (PNQM).

@@ -1,0 +1,29 @@
+node_modules/
+dist/
+preview/
+.expo/
+.env
+.htaccess
+api/config/local.php
+api/config/google-play-service-account.json
+api/storage/*
+!api/storage/.gitkeep
+uploads/*
+!uploads/.htaccess
+!uploads/.gitkeep
+test-results/
+*.log
+/.cxx/
+
+# Mídias originais ficam no PC e na hospedagem, fora do repositório.
+/Mídia - Imagens e vídeos dos posicionamentos/
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[aA][vV][iI]
+*.[mM][kK][vV]
+*.[wW][eE][bB][mM]
+
+# Artefatos gerados localmente.
+*.apk
+*.aab
+/mobile/builds/

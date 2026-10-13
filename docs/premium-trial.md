@@ -1,0 +1,13 @@
+# Período de teste do Premium
+
+Execute `database/premium-trial.sql` no banco existente antes de habilitar o teste. A migração cria a tabela `premium_trials` e a configuração `premium_trial_days`, inicialmente zero. Preserva valores já configurados, clientes, pagamentos e conteúdos. Localmente: `C:\xampp\php\php.exe scripts/install-premium-trial.php`.
+
+No admin: **Configurações → Site e aplicativo → Plano Premium → Período de teste (dias)**. De 0 a 365 dias; zero desativa novas ativações. Cadastro e login não começam o teste. O cliente toca em **Iniciar teste**, no Perfil ou na janela do Premium, para ativar o prazo com a quantidade de dias configurada naquele momento. Contas novas ou existentes sem Premium definitivo podem ativar uma única vez, desde que nunca tenham utilizado o teste.
+
+Cada ativação recebe uma única data de início e término em UTC. Cliques repetidos ou simultâneos retornam o mesmo teste em andamento, sem renovação. Após vencer, uma nova ativação é recusada. Login, reinstalação, edição da conta e alteração da quantidade de dias não renovam o prazo. Zero impede novas ativações e preserva testes em andamento. O perfil informa a data no horário do dispositivo. Não há cadastro de cartão ou cobrança automática. Terminado o prazo, os conteúdos gratuitos permanecem disponíveis e o cliente pode comprar o Premium definitivo, pela Google Play no Android ou pelo Asaas na web.
+
+A API verifica o prazo no acesso a textos, imagens, vídeos e arquivos assinados. O app atualiza o perfil ao retornar e encerra o acesso visual ao vencer o teste. Premium comprado ou concedido manualmente continua válido, inclusive após o prazo. Comprar durante o teste é permitido; cancelar ou estornar essa compra não renova o teste.
+
+Para atualizar a hospedagem, suba `api/` preservando `api/config/local.php` e `api/storage/`, `preview/` completa e `admin/dist/`. Se `premium-trial.sql` já foi executado, esta mudança para ativação por botão não precisa de novo SQL. Os prazos já iniciados são preservados. O app Android precisa da sua próxima compilação para exibir o botão e a data do teste. Nenhum APK ou ZIP é criado por essa atualização.
+
+Verificação: `python tests/premium_trial_tests.py` cobre configuração no painel, permissões, limites, persistência, cadastro sem ativação, início explícito, chamadas simultâneas, botões no Perfil e no Premium, prazo fixo, expiração no navegador e bloqueio de textos/links já emitidos. `php tests/google_play_tests.php` e `npm run test:billing` na pasta `mobile/` cobrem compra durante o teste e estorno sem renovação do prazo. Os testes restauram as configurações e removem as contas temporárias. Compras Google foram simuladas; a validação nativa com a Play Console continua necessária.
